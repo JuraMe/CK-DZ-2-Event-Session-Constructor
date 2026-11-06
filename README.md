@@ -1,1 +1,0 @@
-# CK-DZ-2-Event-Session-Constructor
